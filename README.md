@@ -4,6 +4,8 @@
 
 Modern, clean, and minimalist GNOME + GTK theme. Complete with beautiful frosted glass blur effects! 
 
+### :warning: The included installer does not currently include an uninstaller. This is coming soon! You can manually uninstall this theme in the meantime by opening the scripts and reversing what it changes. Remember to remove the line in your ``~/.bash_profile`` file.
+
 ***
 <br>
 <img align="left" width="445" src="https://github.com/user-attachments/assets/029b3c16-a1f7-49c6-b1e5-c48a54f4e1bf"><img align="left" src="https://github.com/Coopydood/ultimate-macOS-KVM/assets/39441479/8f69f9b9-cf23-4e8b-adf3-95862a23e2ba" height=680 width=1 />
