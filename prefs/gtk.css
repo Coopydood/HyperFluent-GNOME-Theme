@@ -4,13 +4,29 @@
 	background-color: rgba(0,0,0,0.2);
 } 
 
-.nautilus-window.view .large {
+.nautilus-window.view .large{
 	background: none;
 	box-shadow: none;
 	filter: drop-shadow(0px 0px 2.5px rgba(0, 0, 0, 0.24));
 } 
+
+widget .view{
+	background: none;
+}
+
+.nautilus-window.view .view{
+	background: none;
+	box-shadow: none;
+	filter: drop-shadow(0px 0px 2.5px rgba(0, 0, 0, 0.24));
+} 
+
 .nautilus-window.view .icon-ui-labels-box {
 	text-shadow: 0px 0px 5px rgba(0,0,0,0.6);
+}
+
+.nautilus-window.view .thumbnail {
+	background: none;
+        filter: drop-shadow(0px 0px 2.5px rgba(0, 0, 0, 1.0));
 }
 
 .icon {
